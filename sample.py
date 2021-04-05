@@ -1,2 +1,2 @@
 print('Welcome to gitrepos')
-print('Editing file from master branch')
+print('Changes from master branch')
